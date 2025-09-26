@@ -2,7 +2,7 @@ package model;
 
 public class Cliente {
     
-    
+
 private Cuenta[] cuentas;
 
     public Cliente(){
@@ -46,5 +46,8 @@ private Cuenta[] cuentas;
     public Cuenta[] getCuentasList() {
         return cuentas;
         }
+    public void addCuenta(String nombre, TipoCuenta TipoCuenta, double saldo){
+
+    }
 
 }
