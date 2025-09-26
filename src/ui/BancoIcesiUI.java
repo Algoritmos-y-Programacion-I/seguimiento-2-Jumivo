@@ -8,6 +8,7 @@ public class BancoIcesiUI {
      * ATENCION !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
      * Agregue los atributos (relaciones) necesarios para conectar esta clase con el modelo.
      */
+    
 
     private Scanner input;
 

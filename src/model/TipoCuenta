@@ -1,0 +1,4 @@
+ public enum Cuenta{
+    AHORROS
+    CORRIENTE
+ }
